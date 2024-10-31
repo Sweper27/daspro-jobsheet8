@@ -18,6 +18,7 @@ public class Triangle26 {
                 j++;
                 
             }
+            System.out.println(" ");
             i++;
         }
     }
